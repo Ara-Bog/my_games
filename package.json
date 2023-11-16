@@ -2,6 +2,7 @@
   "name": "my_games",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ara-bog.github.io/my_games",
   "dependencies": {
     "@testing-library/jest-dom": "6.1.4",
     "@testing-library/react": "14.1.0",
