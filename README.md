@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+// ,"deploy": "gh-pages -d build"
+"homepage": "https://ara-bog.github.io/my_games",
 
 ## Available Scripts
 
